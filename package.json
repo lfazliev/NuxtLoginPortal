@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-login-portal",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.5.1",
+    "md5": "^2.3.0",
+    "pinia": "^2.1.7"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.11.0",
+    "@types/md5": "^2.3.5",
+    "@types/node": "^22.13.13",
+    "nuxt": "^3.16.1",
+    "sass": "^1.69.7",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  }
+}

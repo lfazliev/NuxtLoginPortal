@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Ноутбук Dell XPS 15",
+    "category": "Электроника",
+    "price": 92500,
+    "quantity": 15,
+    "status": "В наличии",
+    "date_created": "2025-01-10T08:30:00"
+  },
+  {
+    "id": 2,
+    "name": "Смартфон iPhone 15 Pro",
+    "category": "Электроника",
+    "price": 98900,
+    "quantity": 25,
+    "status": "В наличии",
+    "date_created": "2025-01-15T10:45:00"
+  },
+  {
+    "id": 3,
+    "name": "Наушники Sony WH-1000XM5",
+    "category": "Аудио",
+    "price": 28500,
+    "quantity": 30,
+    "status": "В наличии",
+    "date_created": "2025-01-20T14:22:00"
+  },
+  {
+    "id": 4,
+    "name": "Монитор LG UltraGear",
+    "category": "Электроника",
+    "price": 35600,
+    "quantity": 8,
+    "status": "Заканчивается",
+    "date_created": "2025-01-25T09:15:00"
+  },
+  {
+    "id": 5,
+    "name": "Клавиатура Logitech MX Keys",
+    "category": "Периферия",
+    "price": 9500,
+    "quantity": 40,
+    "status": "В наличии",
+    "date_created": "2025-02-01T11:30:00"
+  },
+  {
+    "id": 6,
+    "name": "Мышь Razer DeathAdder",
+    "category": "Периферия",
+    "price": 4800,
+    "quantity": 35,
+    "status": "В наличии",
+    "date_created": "2025-02-05T16:45:00"
+  },
+  {
+    "id": 7,
+    "name": "Планшет Samsung Galaxy Tab S9",
+    "category": "Электроника",
+    "price": 58900,
+    "quantity": 0,
+    "status": "Нет в наличии",
+    "date_created": "2025-02-10T13:20:00"
+  },
+  {
+    "id": 8,
+    "name": "Умная колонка Яндекс Станция",
+    "category": "Аудио",
+    "price": 12900,
+    "quantity": 22,
+    "status": "В наличии",
+    "date_created": "2025-02-15T10:10:00"
+  },
+  {
+    "id": 9,
+    "name": "Видеокарта NVIDIA RTX 4080",
+    "category": "Комплектующие",
+    "price": 87500,
+    "quantity": 5,
+    "status": "Заканчивается",
+    "date_created": "2025-02-20T09:05:00"
+  },
+  {
+    "id": 10,
+    "name": "Процессор Intel Core i9",
+    "category": "Комплектующие",
+    "price": 42500,
+    "quantity": 18,
+    "status": "В наличии",
+    "date_created": "2025-02-25T14:30:00"
+  },
+  {
+    "id": 11,
+    "name": "Фотоаппарат Canon EOS R5",
+    "category": "Фототехника",
+    "price": 235000,
+    "quantity": 7,
+    "status": "В наличии",
+    "date_created": "2025-03-01T08:45:00"
+  },
+  {
+    "id": 12,
+    "name": "Игровая консоль PlayStation 5",
+    "category": "Развлечения",
+    "price": 59990,
+    "quantity": 0,
+    "status": "Нет в наличии",
+    "date_created": "2025-03-05T12:20:00"
+  }
+]
