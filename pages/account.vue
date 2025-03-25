@@ -124,7 +124,9 @@ const dateEnd = ref('')
 await useAsyncData('products', async () => {
   try {
     const response = await $fetch<Product[]>('/products.json', {
-      baseURL: useRuntimeConfig().public.apiBase || undefined,
+      baseURL: import.meta.server
+        ? useRuntimeConfig().public.apiBase
+        : undefined,
     })
     const data = response
     productsStore.initProducts(data)
